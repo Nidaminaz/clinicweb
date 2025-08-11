@@ -126,14 +126,7 @@ The project is organized for scalability and maintainability. Here’s a breakdo
 
 ### Installation
 
-1. **Clone the repository:**
-  
-   ```bash
-   git clone https://github.com/arnobt78/HealthCare-Doctor-Appointment--NextJS.git
-   cd HealthCare-Doctor-Appointment--NextJS
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
   
    ```bash
    npm install
@@ -384,13 +377,6 @@ This project is designed for rapid development and deployment of healthcare mana
 
 ---
 
-## Happy Coding! 🎉
-
-Feel free to use this project repository and extend this project further!
-
-If you have any questions or want to share your work, reach out via GitHub or my portfolio at [https://arnob-mahmud.vercel.app/](https://arnob-mahmud.vercel.app/).
-
-**Enjoy building and learning!** 🚀
 
 Thank you! 😊
 
